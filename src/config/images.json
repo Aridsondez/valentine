@@ -1,0 +1,27 @@
+{
+  "_instructions": "Place image files in the /public/images/ folder, then update the paths below. Supported formats: .jpg, .jpeg, .png, .webp, .gif. Use null to keep the emoji fallback.",
+
+  "trapCharacters": {
+    "robert": {
+      "src": "/images/robert.jpg",
+      "_placeholder": "/images/robert.jpg"
+    },
+    "zuko": {
+      "src": "/images/zuko.jpeg",
+      "_placeholder": "/images/zuko.jpeg"
+    },
+    "onedirection": {
+      "src": "/images/onedirection.jpg",
+      "_placeholder": "/images/onedirection.jpg"
+    },
+    "hamilton": {
+      "src": "/images/hamilton.jpg",
+      "_placeholder": "/images/hamilton.jpg"
+    }
+  },
+
+  "aj": {
+    "src": null,
+    "_placeholder": "/images/aj.jpg"
+  }
+}
